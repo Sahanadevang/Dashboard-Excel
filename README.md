@@ -1,1 +1,0 @@
-Report contains - Most Used Shipment Mode, Top 5 Profitable States, Top 3 least Profitable Product Sub- Categories, Top 10 most Profitable Cities and Slicers for Customer segments,Product category, Ship mode.
